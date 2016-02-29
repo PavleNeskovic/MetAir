@@ -1,5 +1,5 @@
 <?php
 
-echo "<strong>MetHotels initial commit</strong>";
+echo "<h1><strong>MetHotels initial commit</strong></h1>";
 
 ?>
